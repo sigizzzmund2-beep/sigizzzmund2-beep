@@ -18,7 +18,6 @@ Pentest enthusiast looking for an internship.
 - **Other:** Linux, Git, Docker (basic)
 
 ## How to reach me
-- Email: sigizzzmund2@gmail.com
 - Telegram: @sigizzzmund
 
 
